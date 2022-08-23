@@ -69,39 +69,41 @@
 
 #Task8
 
-def Task8(x,y):
-    if x>0 and y>0:
-        return '1 quarter'
-    elif x<0 and y>0:
-        return '2 quarter'
-    elif x<0 and y<0:
-        return '3 quarter'
-    elif x>0 and y<0:
-        return '4 quarter'
-    else:
-        return 'x=0 and y=0'
+#def Task8(x,y):
+#    if x>0 and y>0:
+#        return '1 quarter'
+#    elif x<0 and y>0:
+#        return '2 quarter'
+#    elif x<0 and y<0:
+#        return '3 quarter'
+#    elif x>0 and y<0:
+#        return '4 quarter'
+#    else:
+#        return 'x=0 and y=0'
 
-print(Task8(1,-5))
+#print(Task8(1,-5))
 
-#Task9
+##Task9
 
-def Task9(input):
-    number = {
-        1: "x>0 and y>0",
-        2: "x<0 and y>0",
-        3: "x<0 and y<0",
-        4: "x>0 and y<0",
-        }
+#def Task9(input):
+#    number = {
+#        1: "x>0 and y>0",
+#        2: "x<0 and y>0",
+#        3: "x<0 and y<0",
+#        4: "x>0 and y<0",
+#        }
     
-    return number.get(input);
+#    return number.get(input);
 
 
-print(Task9(2))
+#print(Task9(2))
 
-#Task10
+##Task10
 
-def Task10(x1,y1,z1,x2,y2,z2):
-    import math
-    return math.sqrt(((x2-x1)*(x2-x1))+((y2-y1)*(y2-y1))+((z2-z1)*(z2-z1)))
+#def Task10(x1,y1,z1,x2,y2,z2):
+#    import math
+#    return math.sqrt(((x2-x1)*(x2-x1))+((y2-y1)*(y2-y1))+((z2-z1)*(z2-z1)))
 
-print(Task10(1,2,3,4,5,6))
+#print(Task10(1,2,3,4,5,6))
+
+
