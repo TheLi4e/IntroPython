@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson2", "Lesson2", "{D5A9
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework2", "Homework2\Homework2.pyproj", "{DF874AAC-AED8-4C4C-B477-EC3D70C9DF31}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework3", "Homework3\Homework3.pyproj", "{FCE3017F-B13F-4F05-B7D6-F00FBF35F70F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,13 +27,16 @@ Global
 		{1D67333C-96F4-4273-B68C-0A77F295D799}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF874AAC-AED8-4C4C-B477-EC3D70C9DF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DF874AAC-AED8-4C4C-B477-EC3D70C9DF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE3017F-B13F-4F05-B7D6-F00FBF35F70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE3017F-B13F-4F05-B7D6-F00FBF35F70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1D67333C-96F4-4273-B68C-0A77F295D799} = {D048E34C-F813-4730-A1DF-0E750DD9CD95}
-		{DF874AAC-AED8-4C4C-B477-EC3D70C9DF31} = {D5A94887-4154-4982-9BA4-F91E3BEC4981}
+		{DF874AAC-AED8-4C4C-B477-EC3D70C9DF31} = {D048E34C-F813-4730-A1DF-0E750DD9CD95}
+		{FCE3017F-B13F-4F05-B7D6-F00FBF35F70F} = {D5A94887-4154-4982-9BA4-F91E3BEC4981}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7394DFAC-5F0D-40AA-8BCD-22DF60AD2922}
