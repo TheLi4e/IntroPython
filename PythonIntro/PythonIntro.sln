@@ -17,6 +17,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework3", "Homework3\Home
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework4", "Homework4\Homework4.pyproj", "{0CD1EDA3-EF0D-4B26-8673-4A63C0B87811}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson3", "Lesson3", "{B614E481-EB56-4F7A-B139-1CE2290B72D7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework5", "Homework5\Homework5.pyproj", "{319DE75B-1E45-4816-8562-01BBDBD5C531}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,8 @@ Global
 		{FCE3017F-B13F-4F05-B7D6-F00FBF35F70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CD1EDA3-EF0D-4B26-8673-4A63C0B87811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0CD1EDA3-EF0D-4B26-8673-4A63C0B87811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319DE75B-1E45-4816-8562-01BBDBD5C531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319DE75B-1E45-4816-8562-01BBDBD5C531}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,6 +48,7 @@ Global
 		{DF874AAC-AED8-4C4C-B477-EC3D70C9DF31} = {D048E34C-F813-4730-A1DF-0E750DD9CD95}
 		{FCE3017F-B13F-4F05-B7D6-F00FBF35F70F} = {D5A94887-4154-4982-9BA4-F91E3BEC4981}
 		{0CD1EDA3-EF0D-4B26-8673-4A63C0B87811} = {D5A94887-4154-4982-9BA4-F91E3BEC4981}
+		{319DE75B-1E45-4816-8562-01BBDBD5C531} = {B614E481-EB56-4F7A-B139-1CE2290B72D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7394DFAC-5F0D-40AA-8BCD-22DF60AD2922}
