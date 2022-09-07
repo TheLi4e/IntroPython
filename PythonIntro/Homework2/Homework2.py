@@ -13,13 +13,15 @@ print(Task1(1.2345))
 
 
 #Task 2. Напишите программу, которая принимает на вход число N и выдает набор произведений чисел от 1 до N.
-def Task2(n):
-    product = 1
-    for i in range(1,n+1):
-        product *= i;
-    return product
-
-print(Task2(5))
+#def Task2(n):
+#    product = 1
+#    for i in range(1,n+1):
+#        product *= i;
+#    return product
+n = int(input('Введите число: '))
+f = lambda x: ((x == 1) and 1) or x * f(x -1)
+Task2 = list( f(i) for i in range(1, n +1))
+print(Task2)
 
 #Task 3. Реализуйте алгоритм перемешивания списка.
 import random
